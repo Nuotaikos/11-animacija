@@ -1,0 +1,16 @@
+{
+  "name": "11-animacija",
+  "version": "1.0.0",
+  "description": "Animacija",
+  "main": "index.js",
+  "scripts": {
+    "dev": "dead-server --port=3400 --host=localhost",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Diana",
+  "license": "ISC",
+  "devDependencies": {
+    "dead-server": "^1.0.6"
+  }
+}
